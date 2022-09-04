@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tom-jm03&label=Profile%20views&color=0e75b6&style=flat" alt="tom-jm03" /> </p>
 
-- 🔭 I’m currently working on **csgo-xp-discord-bot** (not yet public, because its stil a mess)
+- 🔭 I’m currently working on **csgo-xp-discord-bot** (not yet public, because its still a mess)
 
 
 <h3 align="left">Languages and Tools:</h3>
